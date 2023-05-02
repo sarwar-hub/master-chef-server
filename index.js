@@ -1,11 +1,12 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
-
+const cors = require('cors');
 
 const chefs = require('./data/chef.json');
 const recipes = require('./data/recipe.json');
-
+// use corse to give access to client side
+app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('master-chef API server');
