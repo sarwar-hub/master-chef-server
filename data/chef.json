@@ -1,51 +1,57 @@
 [
     {
       "chef_id": 1,
-      "image": "https://example.com/gordon-ramsay.jpg",
+      "image": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "name": "Gordon Ramsay",
       "experience": "30+ years",
       "numRecipes": 500,
-      "likes": 10000
+      "likes": 10000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     },
     {
       "chef_id": 2,
-      "image": "https://example.com/massimo-bottura.jpg",
+      "image": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
       "name": "Massimo Bottura",
       "experience": "25+ years",
       "numRecipes": 300,
-      "likes": 8000
+      "likes": 8000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     },
     {
       "chef_id": 3,
-      "image": "https://example.com/anthony-bourdain.jpg",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
       "name": "Anthony Bourdain",
       "experience": "20+ years",
       "numRecipes": 200,
-      "likes": 5000
+      "likes": 5000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     },
     {
       "chef_id": 4,
-      "image": "https://example.com/inez-van-lamsweerde.jpg",
+      "image": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
       "name": "Inez van Lamsweerde",
       "experience": "15+ years",
       "numRecipes": 150,
-      "likes": 4000
+      "likes": 4000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     },
     {
       "chef_id": 5,
-      "image": "https://example.com/rené-redzepi.jpg",
+      "image": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "name": "René Redzepi",
       "experience": "10+ years",
       "numRecipes": 100,
-      "likes": 3000
+      "likes": 3000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     },
     {
       "chef_id": 6,
-      "image": "https://example.com/yotam-ottolenghi.jpg",
+      "image": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "name": "Yotam Ottolenghi",
       "experience": "5+ years",
       "numRecipes": 50,
-      "likes": 2000
+      "likes": 2000,
+      "bio": "is the head chef and owner of Spicy dyne, an award-winning restaurant in the heart of Chicago."
     }
 ]
   
