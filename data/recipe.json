@@ -21,7 +21,7 @@
     {
         "recipe_id": 2,
         "chef_id": 2,
-        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Pulled Pork Sandwiches",
         "ingredients": [
             "2 pounds pork shoulder, trimmed",
@@ -40,7 +40,7 @@
     {
         "recipe_id": 3,
         "chef_id": 3,
-        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
         "name": "Caprese Salad",
         "ingredients": [
             "2 large tomatoes, sliced",
@@ -56,7 +56,7 @@
     {
         "recipe_id": 4,
         "chef_id": 4,
-        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+        "image": "https://images.unsplash.com/photo-1547318643-84d5cec56519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Lemon Garlic Shrimp Scampi",
         "ingredients": [
             "1 pound spaghetti",
@@ -74,7 +74,7 @@
     {
         "recipe_id": 5,
         "chef_id": 5,
-        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+        "image": "https://images.unsplash.com/photo-1635755137410-82f20a684be9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
         "name": "Beef Stroganoff",
         "ingredients": [
             "1 pound beef sirloin, sliced thinly",
@@ -93,7 +93,7 @@
     {
         "recipe_id": 6,
         "chef_id": 6,
-        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
+        "image": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Chicken Caesar Salad",
         "ingredients": [
             "2 boneless, skinless chicken breasts",
@@ -109,7 +109,7 @@
     {
         "recipe_id": 7,
         "chef_id": 1,
-        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
         "name": "Spicy Shrimp Linguine",
         "ingredients": [
             "1 pound linguine",
@@ -145,7 +145,7 @@
     {
         "recipe_id": 9,
         "chef_id": 3,
-        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
         "name": "Vegetarian Chili",
         "ingredients": [
             "1 tablespoon olive oil",
@@ -167,7 +167,7 @@
     {
         "recipe_id": 10,
         "chef_id": 4,
-        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "image": "https://images.unsplash.com/photo-1547318643-84d5cec56519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Beef Stroganoff",
         "ingredients": [
             "1 pound beef tenderloin, sliced into thin strips",
@@ -187,7 +187,7 @@
     {
         "recipe_id": 11,
         "chef_id": 5,
-        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "image": "https://images.unsplash.com/photo-1635755137410-82f20a684be9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
         "name": "Grilled Salmon with Mango Salsa",
         "ingredients": [
             "4 salmon fillets",
@@ -205,7 +205,7 @@
     {
         "recipe_id": 12,
         "chef_id": 6,
-        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "image": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Roasted Brussel Sprouts",
         "ingredients": [
             "1 pound Brussel sprouts, trimmed and halved",
@@ -221,7 +221,7 @@
     {
         "recipe_id": 13,
         "chef_id": 1,
-        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=480&q=80",
         "name": "Mushroom Risotto",
         "ingredients": [
             "1 1/2 cups Arborio rice",
@@ -241,7 +241,7 @@
     {
         "recipe_id": 14,
         "chef_id": 2,
-        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Lemon Garlic Shrimp",
         "ingredients": [
             "1 pound large shrimp, peeled and deveined",
@@ -278,7 +278,7 @@
     {
         "recipe_id": 16,
         "chef_id": 4,
-        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "image": "https://images.unsplash.com/photo-1547318643-84d5cec56519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Pesto Pasta Salad",
         "ingredients": [
             "1 pound pasta, cooked and drained",
@@ -298,7 +298,7 @@
     {
         "recipe_id": 17,
         "chef_id": 5,
-        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "image": "https://images.unsplash.com/photo-1635755137410-82f20a684be9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
         "name": "Baked Salmon with Lemon and Dill",
         "ingredients": [
             "4 salmon fillets",
@@ -314,7 +314,7 @@
     {
         "recipe_id": 18,
         "chef_id": 6,
-        "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "image": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Vegetable Fried Rice",
         "ingredients": [
             "3 cups cooked rice, chilled",
